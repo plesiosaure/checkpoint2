@@ -1,0 +1,23 @@
+extends layout
+block content
+	a(href="/admin/create" class="btn btn-info") Création d'article 
+	br
+	br
+	table.table.table-striped.table-bordered
+		tr
+			th #
+			th titre
+			th texte
+			th action 
+		tr 
+			td 1
+			td titre 1 
+			td lorem ipsum bla bla bla 
+			td 
+				a(href="/admin/supprimer/1") Supprimer
+		tr 
+			td 1
+			td titre 2
+			td lorem ipsum bla bla bla 
+			td 
+				a(href="/admin/supprimer/2") Supprimer

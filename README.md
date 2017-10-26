@@ -21,6 +21,7 @@ Le dépôt contient les fichiers et répertoires suivants:
 * `./bin/www` : le point d'entrée de ton serveur
 * `./routes` : les différentes routes (front & admin)
 * `./public` : les fichier du front
+* `./views` : les différentes vues
 * `./config.js` : les identifiants pour te connecter à ta BDD
 
 Regarde et **analyse bien** tous les répertoires et fichiers fournis !

@@ -51,6 +51,7 @@ Il te reste du temps ? Parfait, tu vas pouvoir ajouter quelques fonctionnalités
 
 * Ajouter l'upload d'image sur l'ajout de l'article 
 * Ajouter une page de contact avec un envoi de mail
+* Ajouter un système de login avec un utilisateur unique (login : `bob` / password : `superpassword`)
 
 
 ## Etape 4 - Et voilà...

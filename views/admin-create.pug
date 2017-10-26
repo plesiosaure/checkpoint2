@@ -6,8 +6,8 @@ block content
     form(method="POST")
       .form-group
         label(for='title') Titre
-        input#title.form-control(type='text' placeholder='Titre')
+        input#title.form-control(type='text' placeholder='Titre' name="title")
       .form-group
         label(for='text') Texte
-        textarea#text.form-control(placeholder='Texte de l\'article')
+        textarea#text.form-control(placeholder='Texte de l\'article' name="text")
       button.btn.btn-default(type='submit') Enregistrer

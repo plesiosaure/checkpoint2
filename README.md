@@ -56,7 +56,7 @@ Il te reste du temps ? Parfait, tu vas pouvoir ajouter quelques fonctionnalités
 
 ## Etape 4 - Et voilà...
 
-Tu peux aller te désaltérer à la brasserie, tu l'as amplement mérité !!
+Tu peux aller te désaltérer à la brasserie, tu l'as amplement mérité !!     
 NB. Tu ne dois pas commencer par cette étape... ;)
 
 
